@@ -2,9 +2,11 @@
 分門別類整理我的 Github Star 項目，方便以後尋找。  
 大部分項目我都拿來玩耍過，但💯為我玩過且喜歡的項目。
 
+----------------------------
+----------------------------
 
 # 目錄
-## [機器學習與深度學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#機器學習與深度學習)
+## [深度學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#深度學習)
 * [NLP](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#NLP)
    * [NLP project](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#NLP-project)
    * [GPT](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#GPT)
@@ -29,8 +31,9 @@
 ## [其他](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#其他)
 
 ----------------------------
+----------------------------
 
-# 機器學習與深度學習
+# 深度學習
 
 * [Tensorflow](https://www.tensorflow.org/) | [Keras](https://github.com/keras-team/keras)  💯
 * [Tensorboard](https://github.com/tensorflow/tensorboard)
