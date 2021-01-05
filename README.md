@@ -6,7 +6,7 @@
 
 # 目錄
 
-### [深度學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#深度學習) 深度學習框架、中文自然語言學習、電腦視覺、時間序列、前處理、資料集、學習資源
+### [深度學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#深度學習) 深度學習框架、中文自然語言學習、電腦視覺、時間序列、資料集、學習資源
 * [NLP](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#NLP)
    * [NLP project](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#NLP-project)
    * [GPT](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#GPT)
