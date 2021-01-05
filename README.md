@@ -6,7 +6,7 @@
 
 # 目錄
 
-## [深度學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#深度學習)
+### [深度學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#深度學習)
 深度學習框架、中文自然語言學習、電腦視覺、時間序列、前處理、資料集、學習資源
 * [NLP](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#NLP)
    * [NLP project](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#NLP-project)
@@ -21,27 +21,27 @@
 * [Music](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#Music)
 * [Tutorials](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#Tutorials-1)
 
-## [機率統計](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#機率統計)
+### [機率統計](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#機率統計)
 pandas、統計模型、假設檢定、RFM
 
-## [機器學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#機器學習)
+### [機器學習](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#機器學習)
 機器學習框架、模型
 
-## [蒐集資料](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#蒐集資料)
+### [蒐集資料](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#蒐集資料)
 爬蟲、RSS、各式API
 * [Crawler](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#Crawler)
 * [API](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#API)
 * [標記工具](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#標記工具)
 
-## [視覺化](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#視覺化)
+### [視覺化](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#視覺化)
 視覺化套件
 
-## [開發](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#開發)
+### [開發](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#開發)
 Jupyter、GCP
 
-## [osu!](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#osu!)
+### [osu!](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#osu!)
 
-## [其他](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#其他)
+### [其他](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#其他)
 
 ----------------------------
 
