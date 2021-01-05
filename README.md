@@ -30,9 +30,8 @@
 ## [其他](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#其他)
 
 ----------------------------
-============================
 
-# 深度學習
+## 深度學習
 
 * [Tensorflow](https://www.tensorflow.org/) | [Keras](https://github.com/keras-team/keras)  💯
 * [Tensorboard](https://github.com/tensorflow/tensorboard)
@@ -45,7 +44,7 @@
 * [fastai](https://github.com/fastai/fastai) 基於 pytorch 更方便的架構
 * [lime](https://github.com/marcotcr/lime) 模型特徵解釋
 
-## NLP
+### NLP
 * [jieba](https://github.com/fxsjy/jieba) 結巴斷詞 💯
 * [monpa](https://github.com/monpa-team/monpa) 罔拍斷詞 (BERT) 💯
 * [CKIP transformers](https://github.com/ckiplab/ckip-transformers) | [舊版](https://github.com/ckiplab/ckiptagger) 繁體中文transformers預訓練模型
@@ -109,7 +108,7 @@
 * [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 古詩詞資料集
 * [Gossiping-Chinese-Corpus](https://github.com/zake7749/Gossiping-Chinese-Corpus) PTT八卦版問答語料
 
-## IMAGE
+### IMAGE
 * [opencv](https://github.com/opencv/opencv) 💯
 * [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) pytorch圖片模型整理
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) 看起來超強的OCR
@@ -146,19 +145,19 @@
 * [SynthText_Chinese_py3](https://github.com/yanhaiming56/SynthText_Chinese_py3) 場景文字合成
 * [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)  文字圖生成
 
-## Time Series
+### Time Series
 * [Pmdarima](https://github.com/alkaline-ml/pmdarima) ARIMA 💯
 * [keras-TCN](https://github.com/philipperemy/keras-tcn) 時間卷積網絡
 * [Causal Impact](https://github.com/dafiti/causalimpact) BSTS
 
-## Music
+### Music
 * [stargan-v2](https://github.com/clovaai/stargan-v2) 風格GAN
 * [DL4M](https://github.com/ybayle/awesome-deep-learning-music) 音樂相關
 * [audioset_tagging_cnn](https://github.com/qiuqiangkong/audioset_tagging_cnn) CNN聲音辨識
 * [jukebox](https://github.com/openai/jukebox) 音樂生成
 * [aubio](https://github.com/aubio/aubio) 音樂標註(C)
 
-## Tutorials
+### Tutorials
 * [leemeng - deep learning resources](https://github.com/leemengtaiwan/deep-learning-resources) | [blog](https://leemeng.tw/blog.html) LeeMeng 深度學習資源整理 💯
 * [AI_Math](https://github.com/yenlung/AI_Math) 炎龍老師的課程筆記 💯
 * [Coursera AndrewNg Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吳恩達學習筆記
@@ -178,7 +177,7 @@
     
     
 
-# 機率統計
+## 機率統計
 * [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) pandas資料初步檢視 💯
 * [qgrid](https://github.com/quantopian/qgrid) dataframe互動
 * [statsmodels](https://github.com/statsmodels/statsmodels) 統計檢定模型
@@ -189,7 +188,7 @@
 
 
 
-# 機器學習
+## 機器學習
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) 💯
 * [LightGBM](https://github.com/microsoft/LightGBM) 💯
 * [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) 預測存活/流失
@@ -198,16 +197,16 @@
 
 
 
-# 蒐集資料  
+## 蒐集資料  
 * [RSS](https://github.com/kurtmckee/feedparser) 💯
 
-## Crawler
+### Crawler
 * [request](https://github.com/request/request)
 * [selenium](https://github.com/SeleniumHQ/selenium)
 * [browser_cookie3](https://github.com/borisbabic/browser_cookie3) 存取電腦中的cookie
 * [twnews](https://github.com/virus-warnning/twnews) 新聞拆拆樂
 
-## API
+### API
 * [google api](https://github.com/googleapis/google-api-python-client) GCP ( Google Search、Cloud Vision、storage ... ) 💯
 * [facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) Facebook Ads API
 * [google trans](https://github.com/GeneralMills/pytrends) 💯
@@ -221,13 +220,13 @@
 * [discord.py](https://github.com/Rapptz/discord.py) Discord
 * [free-api](https://github.com/fangzesheng/free-api) 一些免費的api整理
 
-## 標記工具
+### 標記工具
 * [Yolo_Label](https://github.com/developer0hye/Yolo_Label) YOLO資料標記工具 💯
 * [label-studio](https://github.com/heartexlabs/label-studio)
     
     
     
-# 視覺化
+## 視覺化
 * [pyecharts](https://github.com/pyecharts/pyecharts) 💯
 * [chartify](https://github.com/spotify/chartify) 💯
 * [plotly](https://github.com/plotly/plotly.py)
@@ -239,7 +238,7 @@
 * [networkx](https://github.com/networkx/networkx) 社群網絡 💯
 
 
-# 開發
+## 開發
 * [pandas](https://github.com/pandas-dev/pandas) 💯
 * [modin](https://github.com/modin-project/modin) 加速dataframe
 * [tqdm](https://github.com/tqdm/tqdm) 優質進度條 💯
@@ -260,7 +259,7 @@
 
 
 
-# osu!
+## osu!
 * [osu!](https://github.com/ppy/osu)
 * [osu-storyboard-engine](https://github.com/frankhjwx/osu-storyboard-engine/wiki) storyboard python模組 💯
 * [MapsetVerifier](https://github.com/Naxesss/MapsetVerifier)
@@ -271,7 +270,7 @@
 
 
 
-# 其他
+## 其他
 * [Spek](https://github.com/alexkay/spek)  音質分析
 * [ngender](https://github.com/observerss/ngender) 根據名子判斷性別
 * [bullshit](https://github.com/StillFantastic/bullshit) 唬爛生成器
