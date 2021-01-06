@@ -28,7 +28,7 @@
 * [標記工具](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#標記工具)
 ### [視覺化](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#視覺化) 視覺化套件
 ### [開發](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#開發) Jupyter、GCP
-### [osu!](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#osu!-1)
+### [osu!](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#osu-1)
 ### [其他](https://github.com/tommy9301122/GitHub_Star/blob/main/README.md#其他-1)
 
 ----------------------------
